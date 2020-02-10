@@ -126,8 +126,12 @@ def game_hash
   }
 } end
 
-def num_points_scored # Return number of points by player
+def player_stats # returns stats of a player
+  
+end
 
+def num_points_scored # Return number of points by player
+  
 end
 
 def shoe_size # Shoe size by player
@@ -143,10 +147,6 @@ def team_names # Returns team names
 end
 
 def player_numbers # Returns number on player jersey
-
-end
-
-def player_stats # returns stats of a player
 
 end
 
