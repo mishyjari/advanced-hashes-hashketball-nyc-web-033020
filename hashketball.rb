@@ -1,5 +1,9 @@
 data = {:meow => 'kitten'}
 
-def game_hash(data)
-  data
-end
+game_hash = {
+  :home => {
+    :team_name => '',
+    :colors => []
+  },
+  :away => {}
+}
