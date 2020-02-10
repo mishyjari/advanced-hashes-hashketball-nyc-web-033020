@@ -126,10 +126,33 @@ def game_hash
   }
 } end
 
+def num_points_scored # Return number of points by player
 
+end
 
+def shoe_size # Shoe size by player
 
+end
 
+def team_colors # Return colors by team name
+
+end
+
+def team_names # Returns team names
+
+end
+
+def player_numbers # Returns number on player jersey
+
+end
+
+def player_stats # returns stats of a player
+
+end
+
+def big_shoe_rebounds # Return number of rebounds of player with biggest shoe
+
+end
 
 
 
