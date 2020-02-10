@@ -126,8 +126,8 @@ def game_hash
   }
 } end
 
-def player_stats # returns stats of a player
-  
+def player_stats(name) # returns stats of a player
+  name
 end
 
 def num_points_scored # Return number of points by player
