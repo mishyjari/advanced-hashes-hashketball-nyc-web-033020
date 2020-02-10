@@ -1,1 +1,1 @@
-require 'game_data'
+game_has = require 'game_data'
